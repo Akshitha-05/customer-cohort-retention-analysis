@@ -1,0 +1,14 @@
+## Dataset
+
+This project uses the Online Retail Dataset from Kaggle.
+
+Source:
+https://www.kaggle.com/datasets/carrie1/ecommerce-data
+
+Dataset Details:
+- 541,909 transactions
+- December 2010 – December 2011
+- UK-based online retailer
+- 37 countries
+
+Note: The dataset is not included in this repository due to licensing and file size considerations. Please download it directly from Kaggle.
